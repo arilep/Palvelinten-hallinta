@@ -154,6 +154,7 @@ service.running - esimerkissä apache2 tulisi olla asennettuna ja toiminnassa.
 service.dead - esimerkissä apache2 ei toiminnassa.
 
 `sudo salt-call --local -l info state.single service.running apache2 enable=True`
+
 ![image](https://github.com/user-attachments/assets/1bf9f749-5ed3-4d76-a188-4cd1d121405e)
 
 Aiempi komento tuottaa herjan (failed: 1), sillä apache2 ei ole koneessa asennettuna.
@@ -163,6 +164,7 @@ Asensin apachen virtuaalikoneelle:
 
 Jonka jälkeen uusi ajo:
 `sudo salt-call --local -l info state.single service.running apache2 enable=True`
+
 ![image](https://github.com/user-attachments/assets/b62518ca-7183-4955-9f1b-dae04981f253)
 
 Huomaa Succeeded: 1.
