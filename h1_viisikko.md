@@ -186,6 +186,8 @@ present -komento:
 
 ![image](https://github.com/user-attachments/assets/7fd45442-1ef2-4cef-9cf8-8da1e738df3d)
 
+Huomaa: New user testikayttaja created
+
 absent -komento:
 `sudo salt-call --local -l info state.single user.absent testikayttaja`
 
