@@ -38,7 +38,7 @@ $ sudo apt-get install vagrant virtualbox
 ```
 Vagrantilla myös MAC ja Windows tuki, asennus onnistuu [täältä](https://developer.hashicorp.com/vagrant/install)
 
-SSH-kirjautuminen `$ vagrant ssh t001`
+SSH-kirjautuminen `$ vagrant ssh koneen_nimi`
 
 Virtuaalikoneen poisto `$ vagrant destroy` (Huom. poistaa SEKÄ koneen, ETTÄ tallennetut tiedostot)
 
