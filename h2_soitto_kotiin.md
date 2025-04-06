@@ -144,7 +144,7 @@ Tämän jälkeen otin SSH-yhteyden virtuaalikoneeseen.
 
 ![image](https://github.com/user-attachments/assets/853e1275-ca20-489c-86ae-c025a69c7c14)
 
-Osioon käytetty aika: ~20min
+Osioon käytetty aika: ~25min
 
 ## c) Kaksin kaunihimpi
 
@@ -158,7 +158,7 @@ Avasin tiedoston notepadilla `notepad Vagrantfile`, tyhjensin sisällön ja lis�
 
 ![image](https://github.com/user-attachments/assets/65aa7113-8716-4038-b2f9-c511b10f0524)
 
-Tämän jälkeen koneet käyntiin `vagraant up`.
+Tämän jälkeen koneet käyntiin `vagrant up`.
 
 Asennusprosessi vei muutaman minuutin. Sitten testaamaan yhteyksiä.
 
@@ -174,9 +174,11 @@ Sitten ssh-yhteys koneeseen t002 ja toistin samat testit:
 
 ![image](https://github.com/user-attachments/assets/5d5da1ba-9d04-4403-9b0f-a82bbf426f50)
 
-Osioon käytetty aika: ~25min
+Osioon käytetty aika: ~35min
 
 ## d) Herra-orja verkossa
+
+
 ## e) Kokeile vähintään kahta tilaa verkon yli
 
 ### Lähteet
