@@ -177,7 +177,7 @@ ssh-yhteyden luominen koneeseen t001:
 
 ![image](https://github.com/user-attachments/assets/85a2c0f9-66dc-40d4-91d9-66a9298213d6)
 
-pingataan konetta t002 (192.168.88.102) ja googlen public DNS (8.8.8.8)
+Tarkoituksena on testata/osoittaa että verkkoyhteys / yhteys koneiden t001 ja t002 välillä toimii. Pingataan konetta t002 (192.168.88.102) ja googlen public DNS (8.8.8.8).
 
 ![image](https://github.com/user-attachments/assets/f302b3bf-3699-408a-8e67-b3e23bd435c9)
 
