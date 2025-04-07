@@ -254,7 +254,7 @@ Testasin micron asennusta ajamalla: `sudo salt '*' state.single pkg.installed mi
 
 Kommentti osiosta löytyykin maininta: "All specified packages are already installed" ja summarysta "Succeeded: 1".
 
-Paketin päivitys näytti myöskin menevän läpi:
+Paketinhallinnan päivitys näytti myöskin menevän läpi:
 
 ![image](https://github.com/user-attachments/assets/23fb8feb-e3b4-4a69-b5d8-fb2708eb9d43)
 
