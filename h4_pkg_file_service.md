@@ -133,7 +133,7 @@ Aloitin tarkistamalla tilan `sudo systemctl status sshd`
 
 Active: active (running) = palvelu ylhäällä ja Server listening on :: port 22 = kuuntelee porttia 22.
 
-Lisäsin konfiguraatio tiedostoon (polussa /etc/ssh/sshd_config) portit 22 ja 1234:
+Lisäsin konfiguraatio tiedostoon (polussa /etc/ssh/sshd_config) portit 22 (22 testimielessä) ja 1234:
 
 ![image](https://github.com/user-attachments/assets/9a00a138-7f67-4d91-9792-351856045cff)
 
