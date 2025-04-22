@@ -49,7 +49,7 @@ Sitten otin yhteyden t001 koneeseen `vagrant ssh t001` ja ajoin vielä päivityk
 
 Todennettu --> Service could not be found.
 
-Asensin apachen komennolla (EDIT: korjattu oikea komento:) `sudo apt-get -y install apache2`, jonka jälkeen ajoin uudelleen `sudo systemctl status apache2` tarkistaakseni tilan:
+Asensin apachen komennolla (EDIT 22.4.2025 korjattu oikea komento:) `sudo apt-get -y install apache2`, jonka jälkeen ajoin uudelleen `sudo systemctl status apache2` tarkistaakseni tilan:
 
 ![image](https://github.com/user-attachments/assets/ead2b55e-c6fc-42f0-91e8-8bc1cae64b41)
 
