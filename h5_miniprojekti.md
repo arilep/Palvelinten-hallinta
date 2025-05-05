@@ -31,6 +31,8 @@ Moduuli
   - Palomuuri (ufw)
 - Lisäksi käynnistä netdata service, apache2 service, reiät palomuuriin (portit 22, 80) ja ota palomuuri käyttöön.
 
+Projektin sivulle pääset [Tästä](https://github.com/arilep/miniproject/tree/main)
+
 ## Toteutus: Vagrantfile
 
 Pohjana käytin Tero Karvisen mallia, jonka löytää [täältä.](https://terokarvinen.com/2023/salt-vagrant/)
